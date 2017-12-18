@@ -1,1 +1,4 @@
-# Graduated-Project QnA Session Helper
+# Graduated Project  QnA Session Helper
+
+## Motivation
+
